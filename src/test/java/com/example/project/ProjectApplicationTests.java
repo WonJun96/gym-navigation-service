@@ -1,10 +1,10 @@
-package com.example.gymnavigationservice;
+package com.example.project;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GymNavigationServiceApplicationTests {
+class ProjectApplicationTests {
 
     @Test
     void contextLoads() {

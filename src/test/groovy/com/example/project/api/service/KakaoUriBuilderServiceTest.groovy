@@ -1,6 +1,6 @@
 package com.example.project.api.service
 
-import com.example.gymnavigationservice.api.service.KakaoUriBuilderService
+
 import spock.lang.Specification
 
 import java.nio.charset.StandardCharsets
